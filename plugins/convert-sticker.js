@@ -265,8 +265,8 @@ cmd({
             await require('fs').promises.writeFile(nameWebp, stickerBuffer);
 
             let sticker = new Sticker(nameWebp, {
-                pack: '❄️ＳＵＢＺＥＲＯ - ＭＤ❄️', // The pack name
-                author: '『 Mʀ Fʀᴀɴᴋ Oғᴄ』', // The author name
+                pack: '𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀❄️', // The pack name
+                author: '『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』', // The author name
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
                 categories: ['🤩', '🎉'], // The sticker category
                 id: '12345', // The sticker id
