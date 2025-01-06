@@ -27,7 +27,7 @@ SESSION_ID: process.env.SESSION_ID || "enter your subzero md session id here",
 PREFIX: process.env.PREFIX || ".",
 // Enter Your Desired Prefix
 
-BOT_NAME: process.env.BOT_NAME || "『 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 』",
+BOT_NAME: process.env.BOT_NAME || "『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』",
 // Enter Your Bot Name
 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -39,19 +39,19 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263719647303",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923261761538",
 // Set Owner Name
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ",
+OWNER_NAME: process.env.OWNER_NAME || "『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』",
 // Set Footer
 
-DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*",
+DESCRIPTION: process.env.DESCRIPTION || "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』*",
 // add bot owner name   
  
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/YkJyMRb/mrfrankofc.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/rbRfhpd/file-6273.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> [🎐] SᴜʙZᴇʀᴏ MD ɪs ᴏɴʟɪɴᴇ*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> 『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』 ɪs ᴏɴʟɪɴᴇ*⚡",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -69,7 +69,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, SUBZERO-MD viewed your Status🎐*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*『 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 』 viewed your Status🎐*",
 
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
