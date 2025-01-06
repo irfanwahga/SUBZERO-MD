@@ -1,1 +1,1 @@
-© SUBZERO MD W.A BOT ❄️
+© 𝐈𝐑𝐅𝐀𝐍 𝐖𝐀𝐇𝐆𝐀 W.A BOT ❄️
